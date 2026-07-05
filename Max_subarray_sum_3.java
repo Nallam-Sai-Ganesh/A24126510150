@@ -9,7 +9,7 @@ public class Max_subarray_sum_3 {
                     sum += arr[k];
                 }
                 if (sum > maxSum) {
-                    maxSum = sum;
+                    maxSum= sum;
                 }
             }
         }
